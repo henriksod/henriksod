@@ -1,17 +1,9 @@
 - 👋 Hi, I’m @henriksod
-
 - 👀 I’m interested in ...
-
-Robotics, Deep Learning, Game Development, etc.
-
+    - Robotics, Deep Learning, Game Development, etc.
 - 🌱 I’m currently learning ...
-
-Godot
-
+    - Godot
 - 💞️ I’m looking to collaborate on ...
-
-Game Development
-
+    - Game Development
 - 📫 How to reach me ...
-
-Discord @ henriksod#3295
+    - Discord @ henriksod#3295
