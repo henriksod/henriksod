@@ -5,5 +5,6 @@
     - Godot
 - 💞️ I’m looking to collaborate on ...
     - Game Development
+    - Multi Object Tracking
 - 📫 How to reach me ...
     - Discord @ henriksod#3295
